@@ -4,7 +4,9 @@ title: Ping Ma
 permalink: /bio/
 ---
 
-Department of Statistics      ![Ping Ma, assistant professor, statistics.](/public/images/pingma.jpg)
+Department of Statistics      
+
+<img style="float: right;" src="whatever.jpg">  ![Ping Ma, assistant professor, statistics.](/public/images/pingma.jpg=350*241){: style="float: right"}
 
 University of Georgia
 
