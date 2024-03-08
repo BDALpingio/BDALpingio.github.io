@@ -4,7 +4,7 @@ title: Home
 permalink: /index/
 ---
 
-[![KONICA MINOLTA DIGITAL CAMERA]](public/images/homepage.jpg)
+![KONICA MINOLTA DIGITAL CAMERA](public/images/homepage.jpg)
 
  
 
@@ -26,7 +26,7 @@ Our research aims to develop new statistical theory and methods in analyzing vas
 
 <iframe src="public/images/home_NSF.pdf" width="611" height="458"></iframe>
 
-](https://malab.uga.edu/wp-content/uploads/2021/10/BIOMPS_DistinguishedLecture_Bioeconomy_2021_Sept9_Flyer.pdf)DECIPHERING BIOLOGICAL CODES: LEVERAGING THE POWER OF CHEMICAL BIOLOGY, BIOLOGICAL PHYSICS, BIG DATA, AI, AND NATIONAL FACILITIES
+]DECIPHERING BIOLOGICAL CODES: LEVERAGING THE POWER OF CHEMICAL BIOLOGY, BIOLOGICAL PHYSICS, BIG DATA, AI, AND NATIONAL FACILITIES
 
  
 
