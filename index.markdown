@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 ![KONICA MINOLTA DIGITAL CAMERA](public/images/homepage.jpg)
