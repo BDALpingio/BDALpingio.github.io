@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ping Ma
-permalink: /bio/
+permalink: /1_bio/
 ---
 
 <!-- <img align="right" src="public/images/pingma.jpg"></img> -->
