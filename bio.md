@@ -4,7 +4,7 @@ title: Ping Ma
 permalink: /bio/
 ---
 
-<img align="right" src="public/images/pingma.jpg"/>
+<img align="right" src="public/images/pingma.jpg"></img>
 
 
 Department of Statistics

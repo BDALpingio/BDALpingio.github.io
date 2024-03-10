@@ -23,7 +23,7 @@ Our research aims to develop new statistical theory and methods in analyzing vas
 **NSF Distinguished Lecture**
 
 
-<iframe src="public/images/home_NSF.pdf" width="458" height="611"></iframe>
+<iframe src="public/images/nsf.jpg"></iframe>
 DECIPHERING BIOLOGICAL CODES: LEVERAGING THE POWER OF CHEMICAL BIOLOGY, BIOLOGICAL PHYSICS, BIG DATA, AI, AND NATIONAL FACILITIES
 
  
