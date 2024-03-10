@@ -4,10 +4,27 @@ title: Ping Ma
 permalink: /bio/
 ---
 
-<img align="right" src="public/images/pingma.jpg"></img>
+<!-- <img align="right" src="public/images/pingma.jpg"></img> -->
 
+<div align="left">
+<table rules="none">
+<tr>
+<td>
+<p>Department of Statistics</p>
+<p>University of Georgia</p>
+<p>Athens, GA 30602</p>
+<p>Email: pingma@uga.edu</p>
+<p>Phone: (706) 542-0714</p>
+<p>Fax: (706) 542-3391</p>
+</td>
+<td>
+<img src="public/images/pingma.jpg" alt="name"/>
+</td>
+</tr>
+</table>    
+</div>
 
-Department of Statistics
+<!-- Department of Statistics
 
 University of Georgia
 
@@ -17,15 +34,24 @@ Email: pingma@uga.edu
 
 Phone: (706) 542-0714
 
-Fax: (706) 542-3391
+Fax: (706) 542-3391 -->
 
 **Lab Address**
 
-534 Brooks Hall
+<div align="left">
+<table rules="none">
+<tr>
+<td>
+<p>534 Brooks Hall</p>
+<p>University of Georgia</p>
+<p>Phone: (706) 713-2710</p>
+</td>
+<td>
+</td>
+</tr>
+</table>    
+</div>
 
-University of Georgia
-
-Phone: (706) 713-2710
 
 * * *
 
