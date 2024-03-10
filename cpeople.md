@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /cpeople/
+permalink: /people/
 ---
 
 **Principal Investigator**

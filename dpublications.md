@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /dpublications/
+permalink: /publications/
 ---
 
 ### Articles
