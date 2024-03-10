@@ -6,7 +6,7 @@ permalink: /bio/
 
 <!-- <img align="right" src="public/images/pingma.jpg"></img> -->
 
-<div align="left">
+<!-- <div align="left">
 <table rules="none">
 <tr>
 <td>
@@ -22,9 +22,11 @@ permalink: /bio/
 </td>
 </tr>
 </table>    
-</div>
+</div> -->
 
-<!-- Department of Statistics
+![photo](public/images/pingma.jpg){: .image-pull-right}
+
+Department of Statistics
 
 University of Georgia
 
@@ -34,9 +36,17 @@ Email: pingma@uga.edu
 
 Phone: (706) 542-0714
 
-Fax: (706) 542-3391 -->
+Fax: (706) 542-3391
 
 **Lab Address**
+
+<!-- 534 Brooks Hall
+
+University of Georgia
+
+Phone: (706) 713-2710 -->
+
+
 
 <div align="left">
 <table rules="none">
