@@ -41,7 +41,7 @@ permalink: /3_publications/
 
 - Zhong, W., Ke, Y., Wang, Y., Chen, Y., Chen, J., Ma, P. (2021) [Best Subset Selection: Statistical Computing Meets Quantum Computing](https://arxiv.org/abs/2107.08359) , _arXiv 2107.08359_.
 
-- Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) [Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm](https://app.box.com/s/7xd69fytjimbaw4y362gqcusdirdx598), _Journal of Physical Chemistry B_ , 125, 9660–9667. [\[Cover\]](https://malab.uga.edu/2021-09-18-11-11-59/)
+- Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) [Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm](https://app.box.com/s/7xd69fytjimbaw4y362gqcusdirdx598), _Journal of Physical Chemistry B_ , 125, 9660–9667. [\[Cover\]](https://app.box.com/s/0bvk37igh9h0dxz59a4nzwz0n269jtn3)
 
 - Ma, J., Xu, X., Li, M., Zhang, Y., Zhang, L., Ma, P., Hou, J., Lei, Y., Liu, J., Huangfu, X., Yang, Y., Yi, X., Cheng, G., Bai, J., Zhong, X., Xu, X., Wang, Y.(2021) [Predictive models of aging of the human eye based on ocular anterior segment morphology](https://app.box.com/s/8vxkf2xeqjjc0dhi1wdljuxnclcxagnv), _Journal of Biomedical Informatics_, 120:103855.
 
@@ -63,7 +63,7 @@ permalink: /3_publications/
 
 - Venkatraman P, Mills-Henry I, Padmanabhan KR, Pascuzzi P, Hassan M, Zhang J, Zhang X, Ma P, Pang CP, Dowling JE, Zhang M, Leung YF. (2020) [Rods contribute to visual behaviour in larval zebrafish](https://iovs.arvojournals.org/article.aspx?articleid=2770905) , _Investigative Ophthalmology & Visual Science_ 61(12):11.
 
-- Nychka, D., Ma, P., and Bates, D. (2020) [A Conversation with Grace Wahba](http://malab.uga.edu/wp-content/uploads/2020/06/STS734.pdf) , _Statistical Science_, 35, 308–320.
+- Nychka, D., Ma, P., and Bates, D. (2020) [A Conversation with Grace Wahba](https://app.box.com/s/dl49n7yf0i3crat75olhvk251alrlq01) , _Statistical Science_, 35, 308–320.
 
 - Zhang, J., Zhong, W., and Ma, P. (2020) [A Review on Modern Computational Optimal Transport Methods with Applications in Biomedical Research](https://arxiv.org/abs/2008.02995), _Modern Statistical Methods for Health Research_, Springer.
 
@@ -99,9 +99,9 @@ permalink: /3_publications/
 
 - Francis, M., Cheng, H., Ma, P., and Grider, A. (2019) [Genomic Characterization of the Zinc Transcriptional Regulatory Element Reveals Potential Functional Roles of ZNF658](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6685770/), _Biological Trace Element Research_, https://doi.org/10.1007/s12011-019-1650-9.
 
-- Zhang, X., Xie, R., and Ma, P. (2018).[Statistical leveraging methods in big data](http://malab.uga.edu/wp-content/uploads/2019/12/Zhang2018_Chapter_StatisticalLeveragingMethodsIn.pdf), _Handbook of Big Data Analytics_. Springer.
+- Zhang, X., Xie, R., and Ma, P. (2018).[Statistical leveraging methods in big data](https://app.box.com/s/rrux3ekr41pfibqhfpr3sh3gi61bmtd4), _Handbook of Big Data Analytics_. Springer.
 
-- Zhang, J., Jin, H., Wang, Y., Sun, X., Ma, P., and Zhong, W. (2018). [Smoothing Spline ANOVA Models and Their Applications in Complex and Massive Datasets](http://malab.uga.edu/wp-content/uploads/2019/04/61455.pdf), _Topics in Splines and Applications_. InTechOpen.
+- Zhang, J., Jin, H., Wang, Y., Sun, X., Ma, P., and Zhong, W. (2018). [Smoothing Spline ANOVA Models and Their Applications in Complex and Massive Datasets](https://app.box.com/s/8pmm89zwj77r44qe43mop34unfhgx0rf), _Topics in Splines and Applications_. InTechOpen.
 
 ## 2017
 
@@ -119,7 +119,7 @@ permalink: /3_publications/
 
 - **Sun, X.**, **Dalpiaz, D.**, Wu, D., Liu, J. S., Zhong, W., and **Ma, P.**(2016) [Statistical inference for time course RNA-Seq data using a negative binomial mixed-effect model](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1180-9), _BMC Bioinformatics_, DOI: 10.1186/s12859-016-1180-9. \[[Software](https://cran.r-project.org/web/packages/timeSeq/)\]
 
-- **Helwig, N.**, Shorter, K.A., **Ma, P.**, and Hsiao-Wecksler, E.T.(2016) [Smoothing spline analysis of variance models: A new tool for the analysis of cyclic biomechanical data](http://malab.uga.edu/wp-content/uploads/2016/09/Helwig2016JBM.pdf), _Journal of Biomechanics_, DOI: http://dx.doi.org/10.1016/j.jbiomech.2016.07.035.
+- **Helwig, N.**, Shorter, K.A., **Ma, P.**, and Hsiao-Wecksler, E.T.(2016) [Smoothing spline analysis of variance models: A new tool for the analysis of cyclic biomechanical data](https://app.box.com/s/0ddhc3rvj47y4ai412o0nmv3lxteq86g), _Journal of Biomechanics_, DOI: http://dx.doi.org/10.1016/j.jbiomech.2016.07.035.
 
 - Zhang, L., Xiang, L., **Liu, Y.**, Venkatraman, P., Chong, L., Cho, J., Bonilla, S., Jin, Z.B., Pang, C.P., Ko, K.M., **Ma, P.**, Zhang, M., and Leung, Y.F.(2016) [A naturally-derived compound Schisandrin B enhanced light sensation in the pde6c zebrafish model of retinal degeneration](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149663), _PLoS ONE_, 11(3):e0149663.
 
@@ -127,11 +127,11 @@ permalink: /3_publications/
 
 - **Ma, P.** , Mahoney, M.W, and Yu, B. (2015) [A statistical perspective on algorithmic leveraging](http://www.jmlr.org/papers/volume16/ma15a/ma15a.pdf), _Journal of Machine Learning Research_, 16(Apr):861−911.
 
-- **Ma, P.**, Huang, J. Z. and Zhang, N. (2015) [Efficient computation of smoothing splines via adaptive basis sampling](http://malab.uga.edu/wp-content/uploads/2015/07/MaZhangHuang2015.pdf) , _Biometrika_, 102(3):631-645.\[[Supplementary Material](http://malab.uga.edu/wp-content/uploads/2015/07/MaZhangHuang2015supp.pdf)\]
+- **Ma, P.**, Huang, J. Z. and Zhang, N. (2015) [Efficient computation of smoothing splines via adaptive basis sampling](https://app.box.com/s/qnb1803kceaubago5gsluf7og87vc6n5) , _Biometrika_, 102(3):631-645.\[[Supplementary Material](https://app.box.com/s/zrjl0shrgtqipso37h3sf9e80zqfgt00)\]
 
 - **Helwig, N.E.** and **Ma, P.**. (2016) [Smoothing spline ANOVA for super-large samples: Scalable computation via rounding parameters](http://arxiv.org/abs/1602.05208). _Statistics and Its Interface_ , Special Issue on Statistical and Computational Theory and Methodology for Big Data, 9:433–444.
 
-- **Helwig, N.E.**, Gao, Y., Wang, S., and **Ma, P.**. (2015)  [Analyzing spatiotemporal trends in social media data via smoothing spline analysis of variance](http://malab.uga.edu/wp-content/uploads/2017/02/HelwigSpatialStat15.pdf). _Spatial Statistics_, 14:491-504.
+- **Helwig, N.E.**, Gao, Y., Wang, S., and **Ma, P.**. (2015)  [Analyzing spatiotemporal trends in social media data via smoothing spline analysis of variance](https://app.box.com/s/wi9veeql9lxu8q6mcmck79gruay8o3fa). _Spatial Statistics_, 14:491-504.
 
 - **Liu, Y.**, Carmer, R., Zhang, G., Venkatraman, P., Brown, S. A., Pang, C.P., Zhang, M., **Ma, P.**, and Leung, Y. F. (2015) [Statistical analysis of Zebrafish locomotor response](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139521) , _PLoS ONE_, 10(10): e0139521.
 
@@ -143,7 +143,7 @@ permalink: /3_publications/
 
 - **Ma, P.** , Mahoney, M.W, and Yu, B. (2014) [A statistical perspective on algorithmic leveraging](http://proceedings.mlr.press/v32/ma14.pdf), _Proceedings of the 31st International Conference on Machine Learning, PMLR_ , 32, 91-99.
 
-- **Ma, P.** and **Sun, X.** (2015) [Leveraging for big data regression](http://malab.uga.edu/wp-content/uploads/2014/09/wics1324.pdf), _WIREs Computational Statistics_, 7:70–76.
+- **Ma, P.** and **Sun, X.** (2015) [Leveraging for big data regression](https://app.box.com/s/8lc56yjhcgtxlkx582msgqf7nxxzth95), _WIREs Computational Statistics_, 7:70–76.
 
 - Kim, D.  Xiao, Z., **Sun, X.**, Ryerson, B.,  Tkac, D., **Ma, P.**,  Wu, S.,  Chiang, C., X. E. Zhou, X. E.,  Xu, H. E.,  Palvimo, J.J., Chen, L, and Kemper, B. (2015) [A dysregulated Acetyl/SUMO switch of FXR promotes hepatic inflammation in obesity](https://app.box.com/s/4uy82zap3of0eiblhobh), _The EMBO Journal,_ 34(2), 184-199_._
 
@@ -153,7 +153,7 @@ permalink: /3_publications/
 
 - Zhang, L., **Ma, P.**, Collery, R., Trowbridge, S., Zhang, M., Zhong, W., Leung, Y.F. (2014)  [Expression profiling of the RPE in zebrafish smarca4 mutant revealed altered signals that potentially affect RPE and retinal differentiation](http://www.molvis.org/molvis/v20/56/). _Molecular Vision_. 20:56-72.
 
-- **Helwig, N.E.** and **Ma, P**. (2015) [Fast and stable multiple smoothing parameter selection in smoothing spline analysis of variance models with large samples](http://malab.uga.edu/wp-content/uploads/2015/09/helwigma2015jcgs.pdf). _Journal of Computational and Graphical Statistics_ 24:3, 715-732.
+- **Helwig, N.E.** and **Ma, P**. (2015) [Fast and stable multiple smoothing parameter selection in smoothing spline analysis of variance models with large samples](https://app.box.com/s/d02nc5ubkezyub9xb7i1zq2cz5ymg7is). _Journal of Computational and Graphical Statistics_ 24:3, 715-732.
 
 ## 2012
 
@@ -161,11 +161,11 @@ permalink: /3_publications/
 
 - **Ma, P.** (2012) [A statistical journey to the centre of the Earth](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2012.00585.x/pdf) , _Significance_ , 9(4):13-16.(invited feature article).
 
-- **Dalpiaz, D.**, He, X., and **Ma, P.** (2013) [Bias correction in RNA-Seq short-read counts using penalized regression](http://malab.uga.edu/wp-content/uploads/2019/12/Dalpiaz2013_Article_BiasCorrectionInRNA-SeqShort-R.pdf), _Statistics in Biosciences_ ,5(1), 88-99. [\[Software\]](http://cran.r-project.org/web/packages/lmbc/index.html)
+- **Dalpiaz, D.**, He, X., and **Ma, P.** (2013) [Bias correction in RNA-Seq short-read counts using penalized regression](https://app.box.com/s/ksxszagmadkchjg019zunjq5nmsu4l37), _Statistics in Biosciences_ ,5(1), 88-99. [\[Software\]](http://cran.r-project.org/web/packages/lmbc/index.html)
 
 ## 2011
 
-- Gu, C. and **Ma, P.** (2011) [Nonparametric regression with cross-classified responses](http://malab.uga.edu/wp-content/uploads/2019/12/Gu_et_al-2011-Canadian_Journal_of_Statistics.pdf) , _Canadian Journal of Statistics_,39(4), 591–609. [\[Software\]](http://cran.r-project.org/web/packages/gss/index.html)
+- Gu, C. and **Ma, P.** (2011) [Nonparametric regression with cross-classified responses](https://app.box.com/s/g00a8a04usyhmv9tomzhw09vh5sd2m5y) , _Canadian Journal of Statistics_,39(4), 591–609. [\[Software\]](http://cran.r-project.org/web/packages/gss/index.html)
     - The article won the 2011 [the Canadian Journal of Statistics](http://www.ssc.ca/en/award-winners) best paper award.
 
 - Tenorio, L, Andersson, F., de Hoop, M. and , **Ma, P.** (2011) [Data analysis tools for uncertainty quantification of inverse problems](https://uofi.box.com/s/rd0gi52kk9zkdxkgaj74), _Inverse Problems_, 27, 045001, doi:10.1088/0266-5611/27/4/045001.
@@ -179,13 +179,13 @@ permalink: /3_publications/
 
 - **Ma, P.,** Zhong, W., and Liu, J. S. (2009)  [Identifying differentially expressed genes in time course microarray data](https://link.springer.com/article/10.1007/s12561-009-9014-1), _Statistics in Biosciences,_ 1(2), 144-159.
 
-- **Zamdborg, L.**, **Ma, P.**(2009) [Discovery of protein-DNA interactions by penalized multivariate regression](https://academic.oup.com/nar/article/37/16/5246/2410133), _Nucleic Acids Research,_ 37(16), 5246-5254. [\[Software\]](http://publish.illinois.edu/pingma/motifexpress/)
+- **Zamdborg, L.**, **Ma, P.**(2009) [Discovery of protein-DNA interactions by penalized multivariate regression](https://pubmed.ncbi.nlm.nih.gov/19578060/), _Nucleic Acids Research,_ 37(16), 5246-5254. [\[Software\]](http://publish.illinois.edu/pingma/motifexpress/)
 
 ## 2008
 
 - Leung, Y. F. \*, **Ma, P.**\*, Link, B. A. and Dowling, J.(2008) [Factorial microarray analysis of zebrafish retinal development](https://www.pnas.org/content/105/35/12909.long) , _Proceedings of the National Academy of Sciences,_ 105 (35), 12909-12914. [\[Microarray Data\]](http://www.ncbi.nlm.nih.gov/projects/geo/query/acc.cgi?acc=GSE8874)(\*joint first authors)
 
-- **Ma, P.** and Zhong, W.(2008) [Penalized clustering of large scale functional data with multiple covariates](http://malab.uga.edu/wp-content/uploads/2019/12/Penalized-Clustering-of-Large-Scale-Functional-Data-With-Multiple-Covariates.pdf), _Journal of the American Statistical Association,_ 103 (482), 625-636. [\[Software\]](http://cran.r-project.org/web/packages/MFDA/index.html)
+- **Ma, P.** and Zhong, W.(2008) [Penalized clustering of large scale functional data with multiple covariates](https://app.box.com/s/a72qe0oufhh62xmqlt3ldlksjgxhf75u), _Journal of the American Statistical Association,_ 103 (482), 625-636. [\[Software\]](http://cran.r-project.org/web/packages/MFDA/index.html)
 
 - **Ma, P.,** Zhong, W., Feng, Y., and Liu, J. S. (2008) [Bayesian functional data clustering for temporal microarray data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2358942/), _International Journal of Plant Genomics,_ 2008 (2008) Article ID 231897. [\[Software\]](http://publish.illinois.edu/pingma/BayesianFDAClust/)
 
@@ -208,7 +208,7 @@ permalink: /3_publications/
 - Wang, P., de Hoop, M. V., van der Hilst, R. D., **Ma, P****.**, and Tenorio, L. (2006) [Imaging of structure at and near the core mantle boundary using a generalized Radon transform: 1. Construction of image gathers](https://uofi.box.com/s/s04cqneon32m9wp28vol), _Journal of Geophysical Research_, 111, B12304, doi:10.1029/2005JB004241.
     - The article is featured in [SIAM: Society for Industrial and Applied Mathematics](http://www.siam.org/news/news.php?id=1248)
 
-- Yuan, G.C. \*, **Ma, P.\***, Zhong, W., and Liu, J. S. (2006) [Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae](http://genomebiology.com/2006/7/8/R70), _Genome Biology_, 7(8):R70. [\[Supplementary material\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1779595/) (\* joint first authors)
+- Yuan, G.C. \*, **Ma, P.\***, Zhong, W., and Liu, J. S. (2006) [Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae](https://pubmed.ncbi.nlm.nih.gov/16884527/), _Genome Biology_, 7(8):R70. [\[Supplementary material\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1779595/) (\* joint first authors)
 
 - **Ma, P.\***, Castillo-Davis, C.\*, Zhong, W., and Liu, J. S. (2006) [A data-driven clustering method for time course gene expression data](https://uofi.box.com/s/7xlobs4207ae5i86g1im), _Nucleic Acids Research_, 34(4), 1261-1269. [\[Software\]](http://publish.illinois.edu/pingma/ssclust/)(\* joint first authors)
 
