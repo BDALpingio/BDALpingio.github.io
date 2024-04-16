@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 ## 2024
 - Liu, Y., Chen, Y., Lu, H., Zhong, W., Yuan, G., and Ma, P. (2024) Orthogonal Multimodality Integration and Clustering in Single-cell Data, BMC Bioinformatics.
-- Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics, International Interactions.
+- Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
 - Yang, B., Wu, S., Hu, K., Ye, J., Song, W., Ma, P., Shi, J., and Liu P. (2024), [Enhanced Cyber-Attack Detection in Intelligent Motor Drives: A Transfer Learning Approach with Convolutional Neural Networks](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/4/216/files/2023/12/Enhanced_Cyber-Attack_Detection_in_Intelligent_Motor_Drives_A_Transfer_Learning_Approach_with_Convolutional_Neural_Networks.pdf), IEEE Journal of Emerging and Selected Topics in Industrial Electronics.
 
 ## 2023
