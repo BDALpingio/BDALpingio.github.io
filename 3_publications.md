@@ -7,7 +7,7 @@ permalink: /3_publications/
 ### Articles
 
 ## 2024
-- Wang, Z., Fang, L., Cai, J., Ma, P., Zhong, W. (2024) MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships, Statistics in Biosciences.
+- Wang, Z., Fang, L., Cai, J., Ma, P., Zhong, W. (2024) [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://outlookuga-my.sharepoint.com/:b:/g/personal/lf01513_uga_edu/EftpWbaoRUJMjPGTnsfN8LYBelHOKtOHu1lkcSbBHphIHA?e=QPy70R), Statistics in Biosciences.
 - Fang, L., Chen, Y., Zhong, W., Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](
 https://openreview.net/pdf?id=knZ4NYzGUd
 ), ICML, accepted.
