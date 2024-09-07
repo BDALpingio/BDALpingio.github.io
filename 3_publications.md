@@ -7,6 +7,7 @@ permalink: /3_publications/
 ### Articles
 
 ## 2024
+- Chen, Y., Lu, H., Zhong, W., Ma, P. (2024) Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data, Journal of the American Statistical Association.
 - Wang, Z., Fang, L., Cai, J., Ma, P., Zhong, W. (2024) [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://drive.google.com/file/d/1ziOs1fgjxSvBtdeNdoaBwN_9Dvohy8kA/view?usp=sharing), Statistics in Biosciences.
 - Fang, L., Chen, Y., Zhong, W., Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](
 https://openreview.net/pdf?id=knZ4NYzGUd
