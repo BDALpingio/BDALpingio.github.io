@@ -7,6 +7,7 @@ permalink: /3_publications/
 ### Articles
 
 ## 2024
+- Yu, J., Ye, Z., Ai, M., Ma, P. [Optimal Subsampling for Data Streams with Measurement Constrained Categorical Responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2421990), Journal of Computational and Graphical Statistics
 - Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. WEST: An Ensemble Method for Spatial Transcriptomics Analysis. Cell Reports Methods.
 - Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, S., Parasuraman, R., Conrad, J., Zhong, W., Ye, J., Ma, P., Song, W. (2024) Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation. IEEE Internet of Things Journal
 - Ma, P., Chen, Y., Lu, H., Zhong, W. (2024) [Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2404259), Journal of the American Statistical Association.
