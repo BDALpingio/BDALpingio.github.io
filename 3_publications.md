@@ -7,6 +7,7 @@ permalink: /3_publications/
 ### Articles
 
 ## 2024
+- Ehsan Latif, Yifan Zhou, Shuchen Guo, Yizhu Gao, Lehong Shi, Matthew Nayaaba, Gyeonggeon Lee, Liang Zhang, Arne Bewersdorff, Luyang Fang, Xiantong Yang, Huaqin Zhao, Hanqi Jiang, Haoran Lu, Jiaxi Li, Jichao Yu, Weihang You, Zhengliang Liu, Vincent Shung Liu, Hui Wang, Zihao Wu, Jin Lu, Fei Dou, Ping Ma, Ninghao Liu, Tianming Liu, Xiaoming Zhai [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv
 - Yu, J., Ye, Z., Ai, M., Ma, P. [Optimal Subsampling for Data Streams with Measurement Constrained Categorical Responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2421990), Journal of Computational and Graphical Statistics
 - Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00269-8). Cell Reports Methods.
 - Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, S., Parasuraman, R., Conrad, J., Zhong, W., Ye, J., Ma, P., Song, W. (2024) Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation. IEEE Internet of Things Journal
