@@ -6,6 +6,10 @@ permalink: /3_publications/
 
 ### Articles
 
+
+## 2025
+- Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. Mortgage Prepayment Modeling via a Smoothing Spline State Space Model. Journal of Data Science.
+
 ## 2024
 - Wang, T.,Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y. Functional Regression for SERS Spectrum Transformation Across Diverse Instruments, Analyst.
 - Ehsan Latif, Yifan Zhou, Shuchen Guo, Yizhu Gao, Lehong Shi, Matthew Nayaaba, Gyeonggeon Lee, Liang Zhang, Arne Bewersdorff, Luyang Fang, Xiantong Yang, Huaqin Zhao, Hanqi Jiang, Haoran Lu, Jiaxi Li, Jichao Yu, Weihang You, Zhengliang Liu, Vincent Shung Liu, Hui Wang, Zihao Wu, Jin Lu, Fei Dou, Ping Ma, Ninghao Liu, Tianming Liu, Xiaoming Zhai [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv
