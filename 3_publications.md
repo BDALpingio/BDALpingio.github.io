@@ -11,7 +11,7 @@ permalink: /3_publications/
 - Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. Mortgage Prepayment Modeling via a Smoothing Spline State Space Model. Journal of Data Science.
 
 ## 2024
-- Wang, T.,Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y. Functional Regression for SERS Spectrum Transformation Across Diverse Instruments, Analyst.
+- Wang, T.,Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y. [Functional Regression for SERS Spectrum Transformation Across Diverse Instruments](https://pubs.rsc.org/en/content/articlepdf/2025/AN/D4AN01177E?page=search), Analyst.
 - Ehsan Latif, Yifan Zhou, Shuchen Guo, Yizhu Gao, Lehong Shi, Matthew Nayaaba, Gyeonggeon Lee, Liang Zhang, Arne Bewersdorff, Luyang Fang, Xiantong Yang, Huaqin Zhao, Hanqi Jiang, Haoran Lu, Jiaxi Li, Jichao Yu, Weihang You, Zhengliang Liu, Vincent Shung Liu, Hui Wang, Zihao Wu, Jin Lu, Fei Dou, Ping Ma, Ninghao Liu, Tianming Liu, Xiaoming Zhai [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv
 - Yu, J., Ye, Z., Ai, M., Ma, P. [Optimal Subsampling for Data Streams with Measurement Constrained Categorical Responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2421990), Journal of Computational and Graphical Statistics
 - Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00269-8). Cell Reports Methods.
