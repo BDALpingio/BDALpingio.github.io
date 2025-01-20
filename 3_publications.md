@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
-- Chen, Y, Wu, S, Zhong, W, and Ma, P. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), Journal of Computational and Graphical Statistics.
+- Chen, Y., Wu, S., Zhong, W., Ma, P. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), Journal of Computational and Graphical Statistics.
 - Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. Mortgage Prepayment Modeling via a Smoothing Spline State Space Model. Journal of Data Science.
 
 ## 2024
