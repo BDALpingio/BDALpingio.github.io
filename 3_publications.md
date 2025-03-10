@@ -8,6 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
+- Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 - Haoran Lu, Huimin Cheng, Ye Wang, Yaoguo Xie, Huan Yan, Xindong Wang, Ping Ma, Wenxuan Zhong, [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model(Special issue in honor of Professor Xizhi Wu）](https://jds-online.org/journal/JDS/article/1406/info), J. data sci.(2025), 1-14, DOI 10.6339/25-JDS1165
 
 - Cheng, H., Wang, Y., Ma, P., Murdie, A., A Relational Approach to Understanding Global South Inter-Community NGO Networking, Pathways to Brokerage.
