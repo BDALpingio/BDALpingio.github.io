@@ -9,8 +9,7 @@ permalink: /3_publications/
 
 ## 2025
 - Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P. (2025) [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), STAR Protocols.
--Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025) [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info), Journal of Data Science, 1-14. (Special issue in honor of Professor Xizhi Wu)
-
+- Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025) [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info), Journal of Data Science, 1-14. (Special issue in honor of Professor Xizhi Wu)
 - Cheng, H., Wang, Y., Ma, P., Murdie, A. (2025) A Relational Approach to Understanding Global South Inter-Community NGO Networking, Pathways to Brokerage.
 - Chen, Y., Wu, S., Zhong, W., Ma, P. (2025) [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), Journal of Computational and Graphical Statistics.
 - Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025) SPOT: An Active Learning Framework for Deep Neural Networks, Big Data Mining and Analytics, accepted.
