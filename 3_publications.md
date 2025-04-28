@@ -8,6 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
+- Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
 - Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P. (2025) [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 - Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025) [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info), _Journal of Data Science_, 1-14. (Special issue in honor of Professor Xizhi Wu)
 - Cheng, H., Wang, Y., Ma, P., Murdie, A. (2025) A Relational Approach to Understanding Global South Inter-Community NGO Networking, _Pathways to Brokerage_.
