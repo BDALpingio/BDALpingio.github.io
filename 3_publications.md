@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
-- Liu, Y., Yang Y., Lu, H., Cui, J., Ma, P., Zhong, W., Zhao Y. (2025). Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification. _ACS Sensors_, accepted.
+- Liu, Y., Yang Y., Lu, H., Cui, J., Ma, P., Zhong, W., Zhao Y. (2025). [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397). _ACS Sensors_, accepted.
 - Fang, L., Latif, E., Lu, H., Zhou, Y., Ma, P., and Zhai X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?). _The 26th International Conference on Artificial Intelligence in Education_, accepted.
 - Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
 - Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P. (2025) [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
