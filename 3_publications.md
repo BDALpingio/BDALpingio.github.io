@@ -8,6 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
+- Wu, S.,  Feng, Y., Cheng, H.,  Huang, H.,  Li, Y.,  Ling, F.,   Ma, P.,  Zhong, W., and Shen, Y. (2025) Personalized Risk Score Prediction and Testing Policy Adaptations of a COVID-19 Population-based Contact Tracing Network, _Epidemiology and Infection_, accepted.
 - Liu, Y., Yang Y., Lu, H., Cui, J., Ma, P., Zhong, W., Zhao Y. (2025). [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397). _ACS Sensors_, in press.
 - Fang, L., Latif, E., Lu, H., Zhou, Y., Ma, P., and Zhai X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?). _The 26th International Conference on Artificial Intelligence in Education_, accepted.
 - Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
