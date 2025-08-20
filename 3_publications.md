@@ -8,6 +8,8 @@ permalink: /3_publications/
 
 
 ## 2025
+- Wang, B., Cai, J., Fang, L., Tsujikawa, M., Ma, P., & Leung, Y. F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.108246). _Computers in Biology and Medicine_, Full Length Article, Manuscript Number: CIBM-D-25-02704R2.
+
 - Lu, H., Fang, L., Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., & Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
 
 - Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). _Big Data Mining and Analytics_, 8(5), 1060–1074.
@@ -20,7 +22,7 @@ permalink: /3_publications/
 - Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025) [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info), _Journal of Data Science_, 1-14. (Special issue in honor of Professor Xizhi Wu)
 - Cheng, H., Wang, Y., Ma, P., Murdie, A. (2025) A Relational Approach to Understanding Global South Inter-Community NGO Networking, _Pathways to Brokerage_.
 - Chen, Y., Wu, S., Zhong, W., Ma, P. (2025) [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
-- Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025) SPOT: An Active Learning Framework for Deep Neural Networks, _Big Data Mining and Analytics_, accepted.
+
 - Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025) [Large Language Models for Bioinformatics](https://arxiv.org/abs/2501.06271), _arXiv_.
 
 
