@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
-- Wang, B., Cai, J., Fang, L., Tsujikawa, M., Ma, P., & Leung, Y. F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.108246). _Computers in Biology and Medicine_, Full Length Article, Manuscript Number: CIBM-D-25-02704R2.
+- Wang, B., Cai, J., Fang, L., Tsujikawa, M., Ma, P., & Leung, Y. F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.108246). _Computers in Biology and Medicine_, accepted.
 
 - Lu, H., Fang, L., Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., & Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
 
