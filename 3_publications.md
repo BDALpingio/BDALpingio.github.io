@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
-- Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W. (2025). [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/frontend/manuscript/e2c8e0f98f6602eb5d1907a2ca84cff9/download_pub). Preprints.org. Submitted 12 September 2025;
+- Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W. (2025). [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/frontend/manuscript/e2c8e0f98f6602eb5d1907a2ca84cff9/download_pub). Preprints.org. Submitted 12 September 2025.
 
 - Wang, B., Cai, J., Fang, L., Tsujikawa, M., Ma, P., & Leung, Y. F. (2025). [Tensor analysis of animal behavior by matricization and feature selection](https://doi.org/10.1016/j.compbiomed.2025.108246). _Computers in Biology and Medicine_, accepted.
 
