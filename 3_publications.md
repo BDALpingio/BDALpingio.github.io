@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
-- Xie, R., Sriram, T. N., Wu, W. B., & Ma, P. (2025). [Online Sequential Leveraging Sampling Method for Streaming Autoregressive Time Series with Application to Seismic Data](https://arxiv.org/abs/2509.20698). _The Annals of Applied Statistics_, accepted. 
+- Xie, R., Sriram, T. N., Wu, W. B., Ma, P. (2025). [Online Sequential Leveraging Sampling Method for Streaming Autoregressive Time Series with Application to Seismic Data](https://arxiv.org/abs/2509.20698). _The Annals of Applied Statistics_, accepted. 
 
 - Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W. (2025). [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/frontend/manuscript/e2c8e0f98f6602eb5d1907a2ca84cff9/download_pub). Preprints.org. Submitted 12 September 2025.
 
