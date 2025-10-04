@@ -8,6 +8,8 @@ permalink: /3_publications/
 
 
 ## 2025
+- Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., & Shen, Y. (2025). Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network. *Epidemiology & Infection*, 153, e90. [https://doi.org/10.1017/S0950268825100319](https://doi.org/10.1017/S0950268825100319) ([pubmed.ncbi.nlm.nih.gov][1])
+
 - Xie, R., Sriram, T. N., Wu, W. B., Ma, P. (2025). [Online Sequential Leveraging Sampling Method for Streaming Autoregressive Time Series with Application to Seismic Data](https://arxiv.org/abs/2509.20698). _The Annals of Applied Statistics_, accepted. 
 
 - Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W. (2025). [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/frontend/manuscript/e2c8e0f98f6602eb5d1907a2ca84cff9/download_pub). Preprints.org. Submitted 12 September 2025.
