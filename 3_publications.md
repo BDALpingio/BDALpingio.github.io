@@ -8,7 +8,7 @@ permalink: /3_publications/
 
 
 ## 2025
-- Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., & Shen, Y. (2025). Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network. *Epidemiology & Infection*, 153, e90. [https://doi.org/10.1017/S0950268825100319](https://doi.org/10.1017/S0950268825100319)
+- Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., & Shen, Y. (2025). [Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network](https://doi.org/10.1017/S0950268825100319). *Epidemiology & Infection*, 153, e90.
 
 - Xie, R., Sriram, T. N., Wu, W. B., Ma, P. (2025). [Online Sequential Leveraging Sampling Method for Streaming Autoregressive Time Series with Application to Seismic Data](https://arxiv.org/abs/2509.20698). _The Annals of Applied Statistics_, accepted. 
 
