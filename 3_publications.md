@@ -4,9 +4,6 @@ title: Publications
 permalink: /3_publications/
 ---
 
-### Articles
-
-
 ## 2025
 - Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W.. [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/manuscript/202509.1187/v1), _Sensors_, accepted.
 
