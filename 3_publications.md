@@ -5,6 +5,8 @@ permalink: /3_publications/
 ---
 
 ## 2025
+- Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint (v1, posted Oct 8, 2025).
+
 - Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W.. [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/manuscript/202509.1187/v1), _Sensors_, accepted.
 
 - Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., Shen, Y. (2025). [Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network](https://doi.org/10.1017/S0950268825100319). _Epidemiology & Infection_, 153, e90.
