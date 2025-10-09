@@ -7,8 +7,6 @@ permalink: /3_publications/
 ## 2025
 - Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
-[1]: https://www.biorxiv.org/collection/bioinformatics?utm_source=chatgpt.com "Bioinformatics"
-
 - Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
 
 - Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W.. [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/manuscript/202509.1187/v1), _Sensors_, accepted.
