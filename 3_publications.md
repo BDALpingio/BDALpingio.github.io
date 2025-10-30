@@ -30,7 +30,7 @@ permalink: /3_publications/
 - Cheng, H., Wang, Y., Ma, P., Murdie, A. (2025) A Relational Approach to Understanding Global South Inter-Community NGO Networking, _Pathways to Brokerage_.
 - Chen, Y., Wu, S., Zhong, W., Ma, P. (2025) [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
 
-- Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025) [Large Language Models for Bioinformatics](https://arxiv.org/abs/2501.06271), _Quantitative Biology_, accepted.
+- Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025) [Large Language Models for Bioinformatics](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.70014), _Quantitative Biology_, 14(1), p. 70014.
 
 
 ## 2024
