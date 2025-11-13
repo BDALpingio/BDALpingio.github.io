@@ -6,6 +6,7 @@ permalink: /3_publications/
 
 ## 2025
 - Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+- Fang, L., Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
 
 - Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
