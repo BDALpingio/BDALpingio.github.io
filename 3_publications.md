@@ -5,6 +5,8 @@ permalink: /3_publications/
 ---
 
 ## 2025
+- Hu, L., Huang, T., Xie, H., Gong, X., Ren, C., Hu, Z., Yu, L., Ma, P., & Wang, D. (2025). [Semi-supervised Concept Bottleneck Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Semi-supervised_Concept_Bottleneck_Models_ICCV_2025_paper.pdf). _Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)_, 2110–2119.
+  
 - Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
 - Fang, L., Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
 
