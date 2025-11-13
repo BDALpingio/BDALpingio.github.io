@@ -5,6 +5,8 @@ permalink: /3_publications/
 ---
 
 ## 2025
+- Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](link to be added). _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+
 - Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
 - Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
@@ -20,7 +22,6 @@ permalink: /3_publications/
 - Lu, H., Fang, L., Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., & Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
 
 - Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). _Big Data Mining and Analytics_, 8(5), 1060–1074.
-
 
 - Liu, Y., Yang Y., Lu, H., Cui, J., Ma, P., Zhong, W., Zhao Y. (2025). [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397). _ACS Sensors_, in press.
 - Fang, L., Latif, E., Lu, H., Zhou, Y., Ma, P., and Zhai X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?). _The 26th International Conference on Artificial Intelligence in Education_, accepted.
