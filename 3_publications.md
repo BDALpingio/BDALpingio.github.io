@@ -3,12 +3,16 @@ layout: page
 title: Publications
 permalink: /3_publications/
 ---
+## 2026
+- Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
+- Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+- Fang, L., Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
 
+- 
 ## 2025
 - Hu, L., Huang, T., Xie, H., Gong, X., Ren, C., Hu, Z., Yu, L., Ma, P., & Wang, D. (2025). [Semi-supervised Concept Bottleneck Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Semi-supervised_Concept_Bottleneck_Models_ICCV_2025_paper.pdf). _Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)_, 2110–2119.
   
-- Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
-- Fang, L., Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
+
 
 - Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
@@ -28,7 +32,7 @@ permalink: /3_publications/
 
 - Liu, Y., Yang Y., Lu, H., Cui, J., Ma, P., Zhong, W., Zhao Y. (2025). [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397). _ACS Sensors_, in press.
 - Fang, L., Latif, E., Lu, H., Zhou, Y., Ma, P., and Zhai X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?). _The 26th International Conference on Artificial Intelligence in Education_, accepted.
-- Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
+
 - Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P. (2025) [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 - Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025) [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info), _Journal of Data Science_, 1-14. (Special issue in honor of Professor Xizhi Wu)
 - Cheng, H., Wang, Y., Ma, P., Murdie, A. (2025) A Relational Approach to Understanding Global South Inter-Community NGO Networking, _Pathways to Brokerage_.
