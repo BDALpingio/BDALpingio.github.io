@@ -5,8 +5,8 @@ permalink: /3_publications/
 ---
 ## 2026
 - Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
-- Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
-- Fang, L., Wang, T., Ma, P., Zhai, X. (2025). Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
+- Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P.. DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+- Fang, L., Wang, T., Ma, P., Zhai, X.. Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts. _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
 
 - 
 ## 2025
