@@ -5,17 +5,19 @@ permalink: /3_publications/
 ---
 ## 2026
 
-- Chen, Y., Zhong, W., Ma, P., [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), _arXiv preprint arXiv:2605.14041_ (2026).
+- Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
+- 
+- Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), _arXiv:2605.14041_.
 
 - Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), _Epidemics_, 2026, accepted.
   
-- Cheng, H., Chen, Y., Ma, P., Zhong, W. [Graphon Cross-Validation: Assessing Models on Network Data](https://openreview.net/pdf?id=8J3GTeQmwl). _International Conference on Learning Representations_, 2026.
-- Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
+- Cheng, H., Chen, Y., Ma, P., Zhong, W. (2026). [Graphon Cross-Validation: Assessing Models on Network Data](https://openreview.net/pdf?id=8J3GTeQmwl). _International Conference on Learning Representations_.
+- Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17.
 - Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P., [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317), _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
 
-- Fang, L., Wang, T., Ma, P., Zhai, X., [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://ojs.aaai.org/index.php/AAAI/article/view/42115), _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
+- Fang, L., Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://ojs.aaai.org/index.php/AAAI/article/view/42115), _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
 
-- Chen, Y., Ma, P., Zhong, W., [Quantum Statistical Bootstrap](https://arxiv.org/abs/2604.00951), _arXiv preprint arXiv:2604.00951_ (2026).
+- Chen, Y., Ma, P., Zhong, W. (2026). [Quantum Statistical Bootstrap](https://arxiv.org/abs/2604.00951), _arXiv preprint arXiv:2604.00951_.
 
 
 ## 2025
@@ -23,11 +25,11 @@ permalink: /3_publications/
   
 
 
-- Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
+- Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
-- Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
+- Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
 
-- Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W.. [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/manuscript/202509.1187/v1), _Sensors_, accepted.
+- Coshatt, S. J., Yang, H., Wu, S., Ye, J., Ma, P., Song, W. [SensorAI: A Machine Learning Framework for Sensor Data](https://www.preprints.org/manuscript/202509.1187/v1), _Sensors_, accepted.
 
 - Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., Shen, Y. (2025). [Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network](https://doi.org/10.1017/S0950268825100319). _Epidemiology & Infection_, 153, e90.
 
