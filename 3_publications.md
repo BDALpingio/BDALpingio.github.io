@@ -5,9 +5,9 @@ permalink: /3_publications/
 ---
 ## 2026
 
--  Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, Journal of Machine Learning Research, in press.
+-  Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, _Journal of Machine Learning Research_, in press.
 
-- Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), *arXiv preprint arXiv:2605.27967*.
+- Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), _arXiv preprint arXiv:2605.27967_.
 
 - Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), _Nucleic Acids Research_, in press.
 - Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _Cell Report Methods_, in press.
