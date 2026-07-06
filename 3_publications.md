@@ -5,7 +5,7 @@ permalink: /3_publications/
 ---
 ## 2026
 
--  Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, _Journal of Machine Learning Research_, in press.
+-  Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](http://jmlr.org/papers/v27/23-0359.html), _Journal of Machine Learning Research_.
 
 - Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), _arXiv preprint arXiv:2605.27967_.
 
