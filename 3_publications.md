@@ -5,6 +5,10 @@ permalink: /3_publications/
 ---
 ## 2026
 
+* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://openreview.net/forum?id=psCz7NClif), *Proceedings of Machine Learning Research*, 335, forthcoming.
+
+* Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming.
+
 -  Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](http://jmlr.org/papers/v27/23-0359.html), _Journal of Machine Learning Research_.
 
 - Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), _arXiv preprint arXiv:2605.27967_.
