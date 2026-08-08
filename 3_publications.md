@@ -5,7 +5,9 @@ permalink: /3_publications/
 ---
 ## 2026
 
-* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://openreview.net/forum?id=psCz7NClif), *Proceedings of Machine Learning Research*, 335, forthcoming.
+* Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2027). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://link.springer.com/chapter/10.1007/978-3-032-29760-0_38), *Artificial Intelligence in Education (AIED 2026), Lecture Notes in Computer Science*, 16583, 342–350.
+
+* Najar, A., Wu, S., Yang, H., Wang, T., Ye, J., Zhong, W., Ma, P., Song, W. (2025). [Domain-adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176101231.19551555/v2), *TechRxiv preprint*.
 
 * Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming.
 
@@ -14,7 +16,7 @@ permalink: /3_publications/
 - Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), _arXiv preprint arXiv:2605.27967_.
 
 - Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://academic.oup.com/nar/article-abstract/doi/10.1093/nar/gkag621/8709438?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email), _Nucleic Acids Research_, Volume 54, Issue 11, gkag621. 
-- Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _Cell Report Methods_, in press.
+- Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00231-6), _Cell Report Methods_, in press.
 - Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
 - Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), _arXiv:2605.14041_.
 
@@ -24,7 +26,7 @@ permalink: /3_publications/
 - Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P. (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17.
 - Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P., [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317), _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
 
-- Fang, L., Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://ojs.aaai.org/index.php/AAAI/article/view/42115), _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
+- Fang, L., Wang, T., Ma, P., Zhai, X. (2026). [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://ojs.aaai.org/index.php/AAAI/article/view/42115), _EAAI: The Symposium on Educational Advances in Artificial Intelligence_.
 
 - Chen, Y., Ma, P., Zhong, W. (2026). [Quantum Statistical Bootstrap](https://arxiv.org/abs/2604.00951), _arXiv preprint arXiv:2604.00951_.
 
@@ -48,7 +50,7 @@ permalink: /3_publications/
 - Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). _Big Data Mining and Analytics_, 8(5), 1060–1074.
 
 - Liu, Y., Yang Y., Lu, H., Cui, J., Ma, P., Zhong, W., Zhao Y. (2025). [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397). _ACS Sensors_, in press.
-- Fang, L., Latif, E., Lu, H., Zhou, Y., Ma, P., and Zhai X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?). _The 26th International Conference on Artificial Intelligence in Education_, accepted.
+- Fang, L., Latif, E., Lu, H., Zhou, Y., Ma, P., and Zhai X. (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?). _The 26th International Conference on Artificial Intelligence in Education_.
 
 - Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P. (2025) [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 - Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025) [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info), _Journal of Data Science_, 1-14. (Special issue in honor of Professor Xizhi Wu)
