@@ -18,7 +18,6 @@ permalink: /3_publications/
 - Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://academic.oup.com/nar/article-abstract/doi/10.1093/nar/gkag621/8709438?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email), _Nucleic Acids Research_, Volume 54, Issue 11, gkag621. 
 - Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00231-6), _Cell Report Methods_, in press.
 - Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
-- Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), _arXiv:2605.14041_.
 
 - Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), _Epidemics_, 2026, accepted.
   
