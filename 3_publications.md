@@ -5,6 +5,8 @@ permalink: /3_publications/
 ---
 ## 2026
 
+- Cai, J., Wang, T., Zhang, R., Li, S., Ma, T., Fang, L., Lu, H., Cheng, H., Zhang, Y., Wu, S., Xie, R., Tang, L., Huang, C., Liu, R., Liu, Z., Yu, M., Chen, Y., Zhou, Y., Sun, Z., Liu, C., Xiang, Z., Xiao, W., Rao, Z., Liu, X., Hu, Y., Zhang, M., Zhang, J., Luo, W., Yu, J., Liu, Z., You, W., Jiang, H., Pan, Y., Chen, J., Li, X., Liu, T., Zhong, W., Ma, P. (2026). [Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework](https://arxiv.org/abs/2609.20973), _arXiv preprint arXiv:2609.20973_.
+  
 * Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2027). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://link.springer.com/chapter/10.1007/978-3-032-29760-0_38), *Artificial Intelligence in Education (AIED 2026), Lecture Notes in Computer Science*, 16583, 342–350.
 
 * Najar, A., Wu, S., Yang, H., Wang, T., Ye, J., Zhong, W., Ma, P., Song, W. (2025). [Domain-adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176101231.19551555/v2), *TechRxiv preprint*.
