@@ -5,6 +5,8 @@ permalink: /3_publications/
 ---
 ## 2026
 
+- Zhang, Y., Lu, H., Zhong, W., Ma, P. (2026). [K2P: Label-Free Knowledge to Prompt Distillation](https://arxiv.org/abs/2609.38898), _arXiv preprint arXiv:2609.38898_.
+
 - Cai, J., Wang, T., Zhang, R., Li, S., Ma, T., Fang, L., Lu, H., Cheng, H., Zhang, Y., Wu, S., Xie, R., Tang, L., Huang, C., Liu, R., Liu, Z., Yu, M., Chen, Y., Zhou, Y., Sun, Z., Liu, C., Xiang, Z., Xiao, W., Rao, Z., Liu, X., Hu, Y., Zhang, M., Zhang, J., Luo, W., Yu, J., Liu, Z., You, W., Jiang, H., Pan, Y., Chen, J., Li, X., Liu, T., Zhong, W., Ma, P. (2026). [Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework](https://arxiv.org/abs/2609.20973), _arXiv preprint arXiv:2609.20973_.
   
 * Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2027). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://link.springer.com/chapter/10.1007/978-3-032-29760-0_38), *Artificial Intelligence in Education (AIED 2026), Lecture Notes in Computer Science*, 16583, 342–350.
