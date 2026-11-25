@@ -13,7 +13,7 @@ permalink: /3_publications/
 
 * Najar, A., Wu, S., Yang, H., Wang, T., Ye, J., Zhong, W., Ma, P., Song, W. (2025). [Domain-adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176101231.19551555/v2), *TechRxiv preprint*.
 
-* Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming.
+* Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration.*
 
 -  Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P.(2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](http://jmlr.org/papers/v27/23-0359.html), _Journal of Machine Learning Research_.
 
@@ -21,7 +21,7 @@ permalink: /3_publications/
 
 - Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://academic.oup.com/nar/article-abstract/doi/10.1093/nar/gkag621/8709438?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email), _Nucleic Acids Research_, Volume 54, Issue 11, gkag621. 
 - Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00231-6), _Cell Report Methods_, in press.
-- Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
+- Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://openreview.net/pdf?id=psCz7NClif), *The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration.*
 
 - Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), _Epidemics_, 2026, accepted.
   
